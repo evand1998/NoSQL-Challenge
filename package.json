@@ -1,0 +1,23 @@
+{
+  "name": "nosqlsn",
+  "version": "1.0.0",
+  "description": "no sql social netowkr",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evand1998/NoSQL-Challenge.git"
+  },
+  "author": "Evan Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evand1998/NoSQL-Challenge/issues"
+  },
+  "homepage": "https://github.com/evand1998/NoSQL-Challenge#readme",
+  "dependencies": {
+    "mongoose": "^6.2.9"
+  }
+}
